@@ -1,0 +1,10 @@
+{
+  "name": "classengage-extension",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "echo 'use chrome://extensions -> Load unpacked -> src/extension'",
+    "build": "echo 'You will bundle React dashboard separately with Vite'"
+  },
+  "dependencies": {}
+}
